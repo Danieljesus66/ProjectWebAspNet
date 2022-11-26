@@ -56,7 +56,7 @@ namespace SalesWebMvc.Migrations
 
                     b.Property<double>("BaseSalary");
 
-                    b.Property<DateTime>("BrithDate");
+                    b.Property<DateTime>("BirthDate");
 
                     b.Property<int>("DepartmentId");
 
